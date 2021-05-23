@@ -5,7 +5,8 @@
 
 ## General info
 Final project for the Front-end Development Course, Haaga-Helia.
-REST API was created by the teacher and is out of scope of this project. The author is not responsible for the api's availability.
+REST API was created by the teacher and is out of scope of this project. 
+The author is not responsible for the api's availability.
 
 This is a training session planning app with the following functionalities:
 
